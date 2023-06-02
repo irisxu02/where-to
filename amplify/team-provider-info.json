@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "wheretob9e1d025": {}
+      },
+      "api": {
+        "whereto": {}
+      },
+      "storage": {
+        "s3bdadafb4": {}
       }
     }
   }
